@@ -23,7 +23,7 @@
 
             // 2.3 Convert name variable to uppercase and output the result
 
-            // 2.4 Convert name variable to lovercase and output the result
+            // 2.4 Convert name variable to lowercase and output the result
 
             // 3. String Searching
             // 3.1 Create new boolean variable called containsWorld
