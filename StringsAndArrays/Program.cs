@@ -17,7 +17,7 @@
             // 2. String Manipulation
 
             Console.Write("Please enter your name: ");
-            // 2.1 Get the input from and assing it into new string variable called name
+            // 2.1 Get the input from console and assign it into new string variable called name
 
             // 2.2 Print a personalized welcome message including the name.
 
@@ -53,7 +53,7 @@
             //     The maximum lenght of the string array should be 5
 
             // 2.2 Ask the user to input new names 5 times
-            //     and assing each name to the names string array in the given order.
+            //     and assign each name to the names string array in the given order.
             //     The first name should be at index 0
             //     Hint: you might want to use some sort of a loop here
 
@@ -79,7 +79,7 @@
             // 1. String to Array
             // 1.1 Create new empty words string array
 
-            // 1.2 Try to get each word from the helloWorld variable and assing the values to
+            // 1.2 Try to get each word from the helloWorld variable and assign the values to
             //     the created words string array
 
             // 1.3 Output the values of the words array
